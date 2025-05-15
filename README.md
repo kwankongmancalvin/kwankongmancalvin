@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning nodeJS, ReactJS
 - 💞️ I’m looking to collaborate on any interesting projects
 
-Currently open to the market!
 
 <!---
 kwankongmancalvin/kwankongmancalvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
